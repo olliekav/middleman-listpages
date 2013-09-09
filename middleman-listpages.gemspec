@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Eric Strathmeyer"]
   s.email       = ["eric@vawks.com"]
-  s.homepage    = "https://github.com/strathmeyer/middleman-listpages"
+  s.homepage    = "https://github.com/olliekav/middleman-listpages"
   s.summary     = %q{Adds listpages to Middleman}
   s.description = %q{Adds listpages to Middleman}
 
